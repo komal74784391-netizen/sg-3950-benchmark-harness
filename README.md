@@ -1,2 +1,5 @@
-# sg-3950-benchmark-harness
-Local evaluation harness for multi-task benchmarks
+# Multi-Task Benchmark Harness
+
+A small local harness for running multi-task benchmark suites against local
+model endpoints. It is a general evaluation utility, independent of any single
+paper.
